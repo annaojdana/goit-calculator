@@ -7,7 +7,7 @@ Projekt powstał w ramach kursu FULLSTACK PROGRAMISTA OD ZERA
 ## Szczegóły projektu
 
 Zadanie zostało wykonane na podstawie obrazu
-![alt text](https://github.com/annaojdanna/goit-calculator/blob/main/image.jpg?raw=true)
+![calculator](https://github.com/annaojdanna/goit-calculator/blob/main/image.png?raw=true)
 
 
 ## Technologie
